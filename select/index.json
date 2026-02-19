@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Danceしない?",
+  "base_artist": "鈴木梨央",
+  "createdAt": "2026-02-19T11:15:32.207850Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Danceしない?",
+      "artist": "鈴木梨央",
+      "has_synced": false,
+      "path": "select/pl_01_Danceしない_鈴木梨央.txt"
+    }
+  ]
+}
